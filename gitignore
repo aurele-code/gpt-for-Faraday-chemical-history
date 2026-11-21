@@ -1,0 +1,13 @@
+# poids du modèle (trop lourds pour GitHub)
+*.pt
+
+# fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# checkpoints Jupyter
+.ipynb_checkpoints/
+
+# environnements virtuels
+venv/
+.venv/
