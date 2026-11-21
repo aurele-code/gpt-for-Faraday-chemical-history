@@ -3,7 +3,7 @@
 A character-level GPT (decoder-only Transformer) built from scratch in PyTorch, following Andrej Karpathy's lecture
 [*Let's build GPT: from scratch, in code, spelled out*](https://www.youtube.com/watch?v=kCc8FmEb1nY).
 
-The model is trained on **[TEXT / AUTHOR]** and learns to generate new text in the same style, one character at a time.
+The model is trained on **faraday-chemical-history-complete** and learns to generate new text in the same style, one character at a time.
 
 ## What's inside
 
